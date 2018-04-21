@@ -1,8 +1,3 @@
-=======
-PyGantt
-=======
-
-
 .. image:: https://img.shields.io/pypi/v/pygantt.svg
         :target: https://pypi.python.org/pypi/pygantt
 
@@ -13,20 +8,38 @@ PyGantt
         :target: https://pygantt.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+=======
+PyGantt
+=======
 
+Easy gantt and waterfall charts in python.
 
-
-Gantt charts in python
-
+This module uses gantt type charts to plot event data characterized by a start and an end. 
+It naturally applies to scheduling but it is well suited in financial applications, e.g. plotting positions/weights in a portfolio alongside the portfolio index, in medical application, e.g. the raster plot of neuron impulses, or in waterfall usage plots, e.g. the evolution of your monthly earnings and expenses.
 
 * Free software: BSD license
 * Documentation: https://pygantt.readthedocs.io.
+
+Installation
+--------
+The easiest way to install pyGantt is using ``pip``::
+
+    pip install -U pygantt
+
+or ``conda``::
+
+    conda install pygantt
 
 
 Features
 --------
 
-* TODO
+The canonical scheduling example::
+
+
+Display portfolio positions alongside the realized index:
+
+
 
 Credits
 -------

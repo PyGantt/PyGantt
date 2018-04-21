@@ -48,8 +48,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'PyGantt'
-copyright = u"2018, Mridul Seth"
-author = u"Mridul Seth"
+copyright = u"2018, PyGantt developers"
+author = u"PyGantt developers"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
