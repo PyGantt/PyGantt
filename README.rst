@@ -34,7 +34,7 @@ or ``conda``::
 Features
 --------
 
-The canonical scheduling example::
+The canonical scheduling example:
 
 .. image:: https://github.com/PyGantt/PyGantt/blob/master/images/concert.png
 
