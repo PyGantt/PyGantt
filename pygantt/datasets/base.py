@@ -21,3 +21,10 @@ def load_equities_ptf():
     module_path = os.path.dirname(__file__)
 
     return pd.read_csv(os.path.join(module_path, 'data','equities_ptf.csv'), parse_dates=['Date'])
+
+def load_freelancer():
+    """Loads freelancer earnings/expenses data.
+    """
+    module_path = os.path.dirname(__file__)
+
+    return pd.read_csv(os.path.join(module_path, 'data','freelancer.csv'))
