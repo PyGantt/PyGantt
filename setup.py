@@ -18,7 +18,7 @@ setup_requirements = [ ]
 test_requirements = [ ]
 
 setup(
-    author="Mridul Seth",
+    author="PyGantt developers",
     author_email='seth.mridul@gmail.com',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
@@ -48,7 +48,7 @@ setup(
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/MridulS/pygantt',
+    url='https://github.com/pygantt/pygantt',
     version='0.1.0',
     zip_safe=False,
 )
