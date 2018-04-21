@@ -12,9 +12,9 @@
 PyGantt
 =======
 
-Easy gantt and waterfall charts in python.
+Easy Gantt and waterfall charts in python.
 
-This module uses gantt type charts to plot event data characterized by a start and an end. 
+This module uses Gantt type charts to plot event data characterized by a start and an end. 
 It naturally applies to scheduling but it is well suited in financial applications, e.g. plotting positions/weights in a portfolio alongside the portfolio index, in medical application, e.g. the raster plot of neuron impulses, or in waterfall usage plots, e.g. the evolution of your monthly earnings and expenses.
 
 * Free software: BSD license
@@ -22,7 +22,7 @@ It naturally applies to scheduling but it is well suited in financial applicatio
 
 Installation
 --------
-The easiest way to install pyGantt is using ``pip``::
+The easiest way to install PyGantt is using ``pip``::
 
     pip install -U pygantt
 
