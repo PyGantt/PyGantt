@@ -35,10 +35,15 @@ Features
 --------
 
 The canonical scheduling example::
+.. image:: https://github.com/PyGantt/PyGantt/images/concert.png
 
 
 Display portfolio positions alongside the realized index:
+.. image:: https://github.com/PyGantt/PyGantt/images/concert.png
 
+
+Freelancers ups and downs:
+.. image:: https://github.com/PyGantt/PyGantt/images/concert.png
 
 
 Credits
