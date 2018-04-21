@@ -17,15 +17,14 @@ def gantt(task=None, start=None, finish=None, **kwargs):
         color = kwargs['color']
     
     USES_DATES = False    
-    if np.issubdtype(start.dtype, np.datetime64):
+    if np.issubdtype(start.dtype, np.datetime64) and np.issubdtype(finish.dtype, np.datetime64):
         start = mdates.date2num(start)
-        USES_DATES = True
-    if np.issubdtype(finish.dtype, np.datetime64):
         finish = mdates.date2num(finish)
+        USES_DATES = True
 
-    delta = finish-start
+    delta = finish - start
 
-    fig,ax = plt.subplots(figsize=(9,5))
+    fig,ax = plt.subplots(figsize=(9, 5))
 
     labels = task
     for i, task in enumerate(task):
