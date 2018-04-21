@@ -34,7 +34,7 @@ def binary_encode_pd_series(series):
 def series_to_gantt_format(series, index, starts_ends):
     categories = series.iloc[starts_ends[0]]
     starts = index.iloc[starts_ends[0]]
-    ends = index.iloc[starts_end[1]]
+    ends = index.iloc[starts_ends[1]]
     #ends = pd.concat([index.iloc[starts_ends[1][:-1]], pd.Series([np.NaN])])
     name = series.name
     return pd.DataFrame({
