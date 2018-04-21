@@ -5,3 +5,7 @@
 __author__ = """PyGantt Developers"""
 __email__ = 'seth.mridul@gmail.com'
 __version__ = '0.1.0'
+
+
+from pygantt import *
+from util import *
