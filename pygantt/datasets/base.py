@@ -6,4 +6,4 @@ def load_concert():
     """
     module_path = os.path.dirname(__file__)
 
-    return pd.read_csv(os.path.join(module_path, 'data','concert.csv'))
+    return pd.read_csv(os.path.join(module_path, 'data','concert.csv'), parse_dates=['Start','Finish'])
