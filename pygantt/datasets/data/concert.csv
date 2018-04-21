@@ -1,0 +1,15 @@
+Task,Start,Finish,Type
+Musicians,2018-04-21,2018-05-05,main
+Email Bands,2018-04-21,2018-04-28,sub
+Negotiate Hires,2018-04-28,2018-05-05,sub
+Venue,2018-04-21,2018-05-15,main
+Visit Venues,2018-04-21,2018-04-28,sub
+Select Venue,2018-04-28,2018-05-11,sub
+Contract Venue,2018-05-11,2018-05-15,sub
+Promotion,2018-05-05,2018-06-15,main
+Build Website,2018-05-05,2018-05-28,sub
+Ads,2018-05-28,2018-06-15,sub
+Tickets,2018-05-20,2018-06-20,main
+Setup Platform,2018-05-20,2018-05-25,sub
+Sell,2018-05-25,2018-06-20,sub
+Concert,2018-06-21,2018-06-22,main

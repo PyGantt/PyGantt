@@ -6,8 +6,8 @@ PyGantt
 .. image:: https://img.shields.io/pypi/v/pygantt.svg
         :target: https://pypi.python.org/pypi/pygantt
 
-.. image:: https://img.shields.io/travis/MridulS/pygantt.svg
-        :target: https://travis-ci.org/MridulS/pygantt
+.. image:: https://img.shields.io/travis/PyGantt/PyGantt.svg
+        :target: https://travis-ci.org/PyGantt/PyGantt
 
 .. image:: https://readthedocs.org/projects/pygantt/badge/?version=latest
         :target: https://pygantt.readthedocs.io/en/latest/?badge=latest
