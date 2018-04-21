@@ -28,7 +28,7 @@ The easiest way to install pyGantt is using ``pip``::
 
 or ``conda``::
 
-    conda install pygantt
+    conda install -c mriduls pygantt
 
 
 Features
