@@ -8,4 +8,4 @@ __version__ = '0.1.0'
 
 
 from pygantt import *
-from util import *
+from pygantt.util import *
