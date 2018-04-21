@@ -23,6 +23,13 @@ Gantt charts in python
 * Documentation: https://pygantt.readthedocs.io.
 
 
+Installation
+____________
+
+.. code:: bash
+    $ pip install pygantt
+
+
 Features
 --------
 
