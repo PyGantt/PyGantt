@@ -27,6 +27,7 @@ Installation
 ____________
 
 .. code:: bash
+
     $ pip install pygantt
 
 
