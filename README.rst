@@ -48,6 +48,10 @@ Freelancers ups and downs:
 
 .. image:: https://github.com/PyGantt/PyGantt/blob/master/images/freelancer.png
 
+Project History
+---------------
+The package has been created during the Man AHL Hackaton in London 2018 by the contributors in the  `AUTHORS.rst <AUTHORS.rst>`_ file.
+
 
 Credits
 -------
