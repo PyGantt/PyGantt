@@ -11,7 +11,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['Click>=6.0', 'pandas>=0.18']
+requirements = ['Click>=6.0', 'pandas>=0.18', 'matplotlib>=2.0.0', 'numpy>=1.14.0']
 
 setup_requirements = requirements
 
