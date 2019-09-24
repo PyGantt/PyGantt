@@ -6,5 +6,5 @@ flake8==3.7.6
 tox==3.12.1
 coverage==4.5.2
 Sphinx==2.1.0
-twine==1.12.1
+twine==2.0.0
 pandas==0.24.2
