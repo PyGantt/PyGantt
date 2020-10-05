@@ -7,4 +7,4 @@ tox==3.12.1
 coverage==4.5.2
 Sphinx==2.1.0
 twine==1.12.1
-pandas==1.0.0
+pandas==1.1.3
