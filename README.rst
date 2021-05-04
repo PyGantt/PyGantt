@@ -2,7 +2,7 @@
         :target: https://pypi.python.org/pypi/pygantt
 
 .. image:: https://img.shields.io/travis/PyGantt/PyGantt.svg
-        :target: https://travis-ci.org/PyGantt/PyGantt
+        :target: https://travis-ci.com/PyGantt/PyGantt
 
 .. image:: https://readthedocs.org/projects/pygantt/badge/?version=latest
         :target: https://pygantt.readthedocs.io/en/latest/?badge=latest
